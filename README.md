@@ -1,1 +1,1 @@
-/projects/rxjs-proj-00
+./projects/rxjs-proj-00
